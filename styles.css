@@ -22,7 +22,7 @@
 .upper-part{
     background-color: #161616;;
         border-radius: 30px;
-        margin: 30px 139px 1838px 190px;
+        margin: 30px 139px 168px 130px;
 }
 .left-side{
                padding:   ;
@@ -47,6 +47,7 @@ p{
         font-style: normal;
         font-weight: 900;
         line-height: 26px;
+        margin-bottom: 46px;
        
 }
 .player-image{
@@ -77,4 +78,20 @@ a{
             padding:16px 25px 16px 25px;
             text-decoration: none;
 }
-        
+    .rectangle{
+        background-color: border-radius: 10px;
+            background: #161616;;
+            width: 312px;
+                height: 312px;
+                flex-shrink: 0;
+    }   
+    .rectangle-11{
+                    border-radius: 10px;
+                        background: #FFF;
+                        width: 252px;
+                            height: 64px;
+                            flex-shrink: 0;
+                            margin: 30px;
+
+
+    } 
