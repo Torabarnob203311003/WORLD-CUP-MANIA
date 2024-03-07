@@ -7,7 +7,7 @@
         body{
                 width: 1600px;
                     height: 2534px;
-                    background: #FFF;
+                    
 
         }
 
@@ -78,12 +78,15 @@ a{
             padding:16px 25px 16px 25px;
             text-decoration: none;
 }
-    .rectangle{
+    .sec-half {
         background-color: border-radius: 10px;
             background: #161616;;
             width: 312px;
                 height: 312px;
-                flex-shrink: 0;
+               
+                border-radius: 10px;
+                    background: #161616;
+                    padding-top: 20px;
     }   
     .rectangle-11{
                     border-radius: 10px;
@@ -95,3 +98,15 @@ a{
 
 
     } 
+    .rectangle{
+
+        text-align: center;
+    }
+    .rectangle-12{
+
+        width: 252px;
+            height: 64px;
+            border-radius: 10px;
+                background: #FFF;
+                margin: 30px;
+    }
