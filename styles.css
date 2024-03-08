@@ -130,7 +130,38 @@ p{
     .flex{
         display: grid;
        grid-template-columns: repeat(4,1fr);
+        gap:33px;
        
 
                  
     }
+ .blogs a{
+    
+        text-decoration: none;
+        width: 100px;
+            height: 32px;
+            border-radius: 5px;
+                border: 1px solid #161616;
+                color: #161616;
+                    font-family: Poppins;
+                    font-size: 16px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: normal;
+                    padding:1px 10px;
+
+ }
+ .thumblin{
+
+    width: 312px;
+        height: 175px;
+        flex-shrink: 0;
+        border-radius: 10px 10px 0px 0px;
+        margin-bottom: 15px;
+ }
+ .icons{
+
+    gap: 10px;
+        display: flex;
+        justify-content: space-between;
+ }
