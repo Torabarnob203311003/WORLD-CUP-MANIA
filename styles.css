@@ -82,31 +82,47 @@ a{
         background-color: border-radius: 10px;
             background: #161616;;
             width: 312px;
-                height: 312px;
+                height: 398px;
                
                 border-radius: 10px;
                     background: #161616;
                     padding-top: 20px;
-    }   
+                    margin-left: 120px;
+                }   
     .rectangle-11{
                     border-radius: 10px;
                         background: #FFF;
-                        width: 252px;
+                        width: 200px;
                             height: 64px;
-                            flex-shrink: 0;
+                        
                             margin: 30px;
+                            padding: 12px 15px 12px 15px ;
+                       
 
 
     } 
     .rectangle{
 
         text-align: center;
+        
     }
     .rectangle-12{
 
-        width: 252px;
+        width: 200px;
             height: 64px;
             border-radius: 10px;
                 background: #FFF;
                 margin: 30px;
+                padding: 12px 15px 12px 15px;
+    }
+    .rectangle-14{
+
+                width: 200px;
+                    height: 64px;
+                    flex-shrink: 0;
+                    border-radius: 10px;
+                        background: #D00;
+                        margin: 30px;
+                        padding: 12px 15px 12px 15px;
+
     }
