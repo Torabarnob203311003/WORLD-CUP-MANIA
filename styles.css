@@ -109,10 +109,25 @@ p{
                     margin-left: 120px;
                   
                 }  
+             a{
+                   text-decoration: none;
+                color: #FFF;
+                    font-family: Poppins;
+                    font-size: 20px;
+                    font-style: normal;
+                    font-weight: 600;
+                    line-height: normal;
+                    padding:17px;
+                    display: flex;
+                    padding-left: 70px;
+            
+
+                } 
                 h1{
 
-                    text-align: center;
-                } 
+                        text-align: center;
+
+                }
     .rectangle-11{
                     border-radius: 10px;
                         background: #FFF;
