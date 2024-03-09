@@ -96,6 +96,7 @@ p{
             line-height: normal;
             padding:16px 25px 16px 25px;
             text-decoration: none;
+            margin-right: 320px;
 }
     .sec-half {
         background-color: border-radius: 10px;
@@ -123,6 +124,7 @@ p{
             
 
                 } 
+           
                 h1{
 
                         text-align: center;
